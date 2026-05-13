@@ -2,7 +2,7 @@ import { Rocket, Database, Smartphone } from 'lucide-react'
 import { supabase } from './supabase'
 
 const APP_NAME = "leetcode-study-150"
-const DESCRIPTION = "A coding test practice app based on LeetCode Top Interview 150 with concept study (Easy) and practice (Medium) modes, including visualizations."
+const DESCRIPTION = "Coding test practice app based on LeetCode Top Interview 150 with concept study, algorithm visualizations, and random problem practice."
 
 const features = [
   ['Telegram first', '핸드폰에서 요청하고 바로 수정/배포하는 흐름을 전제로 만든 앱입니다.', Smartphone],
